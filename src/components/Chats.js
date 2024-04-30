@@ -75,7 +75,7 @@ export default function Chats() {
     <div className='chats-page'>
       <div className='nav-bar'>
         <div className='logo-tab'>
-          <img src="../../Logo.svg"/>
+          <img src="../../Logo.svg" alt="."/>
           HiChat
         </div>
 
